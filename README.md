@@ -7,3 +7,7 @@ For developing please download the src file, import it on your main project and 
 npm install
 
 ng serve 
+
+modified by eyas 
+
+18-8-2021
